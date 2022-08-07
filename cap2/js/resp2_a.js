@@ -14,7 +14,7 @@ function mostrarPromocao() {
 
     // exibe a resposta
     outMedicamento.textContent = "Promoção de " + medicamento;
-    outPromocao.textContent = "Leve 2 por apenas R$: " + promocao; 
+    outPromocao.textContent = "Leve 2 por apenas R$: " + promocao;
 }
 
 // cria referência ao botão e associa function mostrarPromocao à ocorrência do evento click neste botão
